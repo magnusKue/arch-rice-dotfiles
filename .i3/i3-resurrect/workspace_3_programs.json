@@ -1,0 +1,20 @@
+[
+  {
+    "command": [
+      "/usr/bin/alacritty"
+    ],
+    "working_directory": "/home/Magnus"
+  },
+  {
+    "command": [
+      "/usr/bin/alacritty"
+    ],
+    "working_directory": "/home/Magnus"
+  },
+  {
+    "command": [
+      "/home/Magnus/.local/share/spotify-launcher/install/usr/share/spotify/spotify"
+    ],
+    "working_directory": "/home/Magnus"
+  }
+]
